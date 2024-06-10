@@ -2,7 +2,7 @@
 
 El postulante deberá consumir una api pública utilizando el framework laravel en su versión más actual o react.
 Es de libre elección utilizar librerias externas, pero todo el código debe estar comentado con una explicación de cada función y las librerias utilizadas.
-Se evaluara expreciencia de usuario, mobile-first, creatividad, diseño etc 
+Se evaluará expreciencia de usuario, mobile-first, creatividad, diseño etc 
 
 ### Herramientas a utilizar
 
